@@ -1,0 +1,11 @@
+{
+    "Logging": {
+      "logDirectory": "./logs",
+      "filePrefix": "myapp_log",
+      "loggingMode": "minutely",
+      "maxLogCount": 7,
+      "dateFormat": "yyyyMMdd_hhmmss",
+      "timeZoneUTC": true
+    }
+  }
+  
